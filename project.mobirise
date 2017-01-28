@@ -50,10 +50,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -95,7 +95,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -109,10 +109,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-311x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -210,8 +212,8 @@
           },
           "_anchor": "features6-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -229,7 +231,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -244,7 +246,7 @@
           "title1": "Graphic Designer",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "The path of graphic designing has always been one of interest to me. It requires the ability to work well with computer programs like Photoshop and Illustrator. You also need to know how to incorporate design principles to make your work look presentable. I believe I have thse skills, and could make a good use of them in the future in this career path.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -258,7 +260,7 @@
           },
           "title2": "Architect",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Architecture involves skills that I feel I am good at. You need good concepts of designing buildings and houses, and you need to stay updated in the structure styles of the current time period. Since I was small, I have enjoyed building things such as model houses, and making 3D dioramas",
+          "caption2": "Architecture involves skills that I feel I am good at. You need good concepts of designing buildings and houses, and you need to stay updated in the structure styles of the current time period. Since I was small, I have enjoyed building things such as model houses, and making 3D dioramas. I find contruction its own form of art. It is very nice to see how the designs of buildings can be so aesthetically pleasing.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -414,7 +416,7 @@
           "_anchor": "menu-7",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -565,7 +567,7 @@
           "_anchor": "menu-a",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -704,10 +706,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -749,7 +751,7 @@
           "_anchor": "menu-f",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -763,10 +765,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-311x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
