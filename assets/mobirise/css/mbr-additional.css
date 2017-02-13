@@ -425,11 +425,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -516,11 +516,11 @@ h6,
   color: #ffffff;
 }
 #menu-7 .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-7 .dropdown-item,
 #menu-7 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-7 .link:hover,
 #menu-7 .dropdown-item:hover,
@@ -589,11 +589,11 @@ h6,
   color: #ffffff;
 }
 #menu-a .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-a .link:hover,
 #menu-a .dropdown-item:hover,
@@ -656,11 +656,11 @@ h6,
   color: #ffffff;
 }
 #menu-f .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-f .dropdown-item,
 #menu-f .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-f .link:hover,
 #menu-f .dropdown-item:hover,
@@ -715,74 +715,74 @@ h6,
 #form1-h SMALL {
   font-size: 12px;
 }
-#menu-r .hide-buttons .nav-btn {
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
+#menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-r .navbar-caption {
+#menu-w .navbar-caption {
   color: #ffffff;
 }
-#menu-r .navbar-toggler {
+#menu-w .navbar-toggler {
   color: #ffffff;
 }
-#menu-r .link,
-#menu-r .dropdown-item {
+#menu-w .link,
+#menu-w .dropdown-item {
   color: #ffffff;
 }
-#menu-r .link {
-  font-size: 0.9rem;
+#menu-w .link {
+  font-size: 0.8rem;
 }
-#menu-r .dropdown-item,
-#menu-r .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+#menu-w .dropdown-item,
+#menu-w .nav-dropdown-sm .link {
+  font-size: 0.866rem;
 }
-#menu-r .link:hover,
-#menu-r .dropdown-item:hover,
-#menu-r .link:focus,
-#menu-r .dropdown-item:focus {
+#menu-w .link:hover,
+#menu-w .dropdown-item:hover,
+#menu-w .link:focus,
+#menu-w .dropdown-item:focus {
   color: #c1c1c1;
 }
-#menu-r .link[aria-expanded="true"],
-#menu-r .dropdown-menu {
+#menu-w .link[aria-expanded="true"],
+#menu-w .dropdown-menu {
   background: #0e0e0e;
 }
-#menu-r .nav-dropdown-sm .link:focus,
-#menu-r .nav-dropdown-sm .link:hover,
-#menu-r .nav-dropdown-sm .dropdown-item:focus,
-#menu-r .nav-dropdown-sm .dropdown-item:hover {
+#menu-w .nav-dropdown-sm .link:focus,
+#menu-w .nav-dropdown-sm .link:hover,
+#menu-w .nav-dropdown-sm .dropdown-item:focus,
+#menu-w .nav-dropdown-sm .dropdown-item:hover {
   background: #202020!important;
 }
-#menu-r .navbar,
-#menu-r .nav-dropdown-sm,
-#menu-r .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-r .nav-dropdown-sm .dropdown-menu {
+#menu-w .navbar,
+#menu-w .nav-dropdown-sm,
+#menu-w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-w .nav-dropdown-sm .dropdown-menu {
   background: #282828;
 }
-#menu-r .bg-color.transparent .link {
+#menu-w .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
 }
-#menu-r .bg-color.transparent.opened .link {
+#menu-w .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu-r .bg-color.transparent.opened .link:hover,
-#menu-r .bg-color.transparent.opened .link:focus {
+#menu-w .bg-color.transparent.opened .link:hover,
+#menu-w .bg-color.transparent.opened .link:focus {
   color: #c1c1c1;
 }
-#menu-r .link[aria-expanded="true"],
-#menu-r .dropdown-item[aria-expanded="true"] {
+#menu-w .link[aria-expanded="true"],
+#menu-w .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
 }
-#menu-r.mbr-navbar--stuck .mbr-navbar__section {
+#menu-w.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#menu-r .mbr-navbar__hamburger {
+#menu-w .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-r .close-icon::before,
-#menu-r .close-icon::after {
+#menu-w .close-icon::before,
+#menu-w .close-icon::after {
   background-color: #ffffff;
-}
-#header3-u .mbr-section-title,
-#header3-u .mbr-section-subtitle {
-  text-align: center;
 }
