@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 42,
+    "uniqCompNum": 43,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -133,7 +133,7 @@
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-15",
+          "_anchor": "header4-16",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
@@ -142,7 +142,9 @@
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/6Lo-k7B6Obg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -151,11 +153,11 @@
             "contentAlign": "right",
             "showTitle": true,
             "showText": false,
-            "showButtons": false
+            "showButtons": true
           },
-          "title": "JAN BATALLAN",
+          "title": "Cinematics<br>",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YouTube Channel</a> "
         },
         {
           "_tags": [
@@ -169,7 +171,7 @@
           },
           "_anchor": "header2-6",
           "_params": {
-            "imageSize": "27",
+            "imageSize": "26",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/6952290-camera-hi-tech-city-lights-bokeh-2000x1250.jpg",
@@ -376,7 +378,7 @@
           "_anchor": "content6-k",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text1": "<p>Since I started school, I have always had the mentality to do good in school, because I am very well aware of the fact that how I do in school throughout my childhood and teenage years will affect my adult life. With this in consideration, I always try my hardest in school, and I push myself to have the best grades possible. I feel that when people get to recognize that about me, they get to know the type of person I am. I don’t like to give up, and when I begin something I will complete it, even if doing so is unpleasant. I always try to have my</p>",
@@ -424,10 +426,14 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/copy-of-jan-batallan-logo-265x264.jpg",
               "class": "card-img-top",
               "width": 265,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
@@ -497,7 +503,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_tags": [
