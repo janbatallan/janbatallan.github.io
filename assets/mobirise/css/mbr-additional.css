@@ -411,6 +411,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header2-6 .mbr-section-text {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -478,9 +481,6 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header2-6 .mbr-section-text {
-  color: #ffffff;
-}
 #features6-2 P {
   text-align: left;
 }
@@ -499,6 +499,9 @@ h6,
   text-align: center;
 }
 #contacts3-13 H4 {
+  color: #b8312f;
+}
+#contacts3-13 LI {
   color: #b8312f;
 }
 #menu-7 .hide-buttons .nav-btn {
@@ -855,6 +858,9 @@ h6,
 #contacts3-18 H4 {
   color: #b8312f;
 }
+#contacts3-18 LI {
+  color: #b8312f;
+}
 #menu-1d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -923,5 +929,8 @@ h6,
   background-color: #ffffff;
 }
 #contacts3-1e H4 {
+  color: #b8312f;
+}
+#contacts3-1e LI {
   color: #b8312f;
 }
