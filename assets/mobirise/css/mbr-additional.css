@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -504,6 +505,9 @@ h6,
 #contacts3-13 LI {
   color: #b8312f;
 }
+#contacts3-13 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -788,6 +792,7 @@ h6,
 #menu-w .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -861,6 +866,10 @@ h6,
 #contacts3-18 LI {
   color: #b8312f;
 }
+#contacts3-18 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 #menu-1d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -933,4 +942,84 @@ h6,
 }
 #contacts3-1e LI {
   color: #b8312f;
+}
+#contacts3-1e .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#menu-1n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1n .navbar-caption {
+  color: #ffffff;
+}
+#menu-1n .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1n .link,
+#menu-1n .dropdown-item {
+  color: #ffffff;
+}
+#menu-1n .link {
+  font-size: 0.8rem;
+}
+#menu-1n .dropdown-item,
+#menu-1n .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1n .link:hover,
+#menu-1n .dropdown-item:hover,
+#menu-1n .link:focus,
+#menu-1n .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-1n .nav-dropdown-sm .link:focus,
+#menu-1n .nav-dropdown-sm .link:hover,
+#menu-1n .nav-dropdown-sm .dropdown-item:focus,
+#menu-1n .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-1n .navbar,
+#menu-1n .nav-dropdown-sm,
+#menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1n .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-1n .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1n .bg-color.transparent.opened .link:hover,
+#menu-1n .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#menu-1n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1n .close-icon::before,
+#menu-1n .close-icon::after {
+  background-color: #ffffff;
+}
+#contacts3-1o H4 {
+  color: #b8312f;
+}
+#contacts3-1o LI {
+  color: #b8312f;
+}
+#contacts3-1o .btn {
+  font-family: 'Montserrat', sans-serif;
 }
