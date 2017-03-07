@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 108,
+    "uniqCompNum": 109,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -1790,19 +1790,9 @@
             "Theme"
           ],
           "_name": "header2",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "header2-6",
+          "_anchor": "header2-30",
           "_params": {
-            "imageSize": "34",
+            "imageSize": "35",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
@@ -1813,8 +1803,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -1844,8 +1834,14 @@
             }
           },
           "title": "JAN BATALLAN",
-          "text": "Since I started school, I have always had the mentality to do good in school, because I am very well aware of the fact that how I do in school throughout my childhood and teenage years will affect my adult life. With this in consideration, I always try my hardest in school, and I push myself to have the best grades possible.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#content6-k\" data-toolbar=\"-mbrBtnMove\">SEE FULL BIOGRAPHY</a>"
+          "text": "Since I started school, I have always had the mentality to do good in school, because I am very well aware of the fact that how I do in school throughout my childhood and teenage years will affect my adult life. With this in consideration, I always try my hardest in school, and I push myself to have the best grades possible",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"intro.html#header3-j\" data-toolbar=\"-mbrBtnMove\">SEE FULL BIOGRAPHY</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
