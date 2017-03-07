@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "intro.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -131,6 +131,15 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#b8312f"
+            },
+            ".card-footer > small": {
+              "color": "#b8312f"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -195,16 +204,7 @@
             "showSubtitle": true
           },
           "title": "TEACHER RECOMMENDATIONS",
-          "subtitle": "",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#b8312f"
-            },
-            ".card-footer > small": {
-              "color": "#b8312f"
-            }
-          }
+          "subtitle": ""
         },
         {
           "_tags": [
