@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "intro.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -30,7 +30,7 @@
     "teacherrecommendation.html": {
       "settings": {
         "title": "Teacher Recommendation",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": ""
       },
       "components": [
         {
@@ -392,7 +392,7 @@
     "contactinfo.html": {
       "settings": {
         "title": "Contact Info",
-        "meta_descr": "Site Creator Description"
+        "meta_descr": ""
       },
       "components": [
         {
@@ -613,7 +613,7 @@
     "photoshop gallery.html": {
       "settings": {
         "title": "Jan Batallan Photoshop Gallery",
-        "meta_descr": "Website Builder Description"
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1042,7 +1042,7 @@
     "illustrator gallery.html": {
       "settings": {
         "title": "Jan Batallan Illustrator Gallery",
-        "meta_descr": "Site Generator Description"
+        "meta_descr": ""
       },
       "components": [
         {
@@ -1471,7 +1471,7 @@
     "certification.html": {
       "settings": {
         "title": "IC3 Certification",
-        "meta_descr": "Web Maker Description"
+        "meta_descr": ""
       },
       "components": [
         {
@@ -2328,7 +2328,7 @@
     "index.html": {
       "settings": {
         "title": "Landing Page",
-        "meta_descr": "Web Page Builder Description"
+        "meta_descr": ""
       },
       "components": [
         {
