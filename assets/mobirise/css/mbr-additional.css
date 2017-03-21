@@ -1061,7 +1061,6 @@ h6,
 }
 
 
-
 #menu-1r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1132,13 +1131,10 @@ h6,
 #footer1-1t P {
   color: #b8312f;
 }
-#content8-1u .mbr-section-title,
-#content8-1u p {
+#content8-32 .mbr-section-title,
+#content8-32 p {
   text-align: right;
   color: #fff;
-}
-#content8-1u .mbr-section-title {
-  font-family: 'Roboto Condensed', sans-serif;
 }
 #header3-25 .mbr-section-title,
 #header3-25 .mbr-section-subtitle {
