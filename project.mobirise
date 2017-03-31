@@ -2680,6 +2680,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          },
           "_anchor": "header1-1v",
           "_params": {
             "parallax": true,
@@ -2702,14 +2709,7 @@
           },
           "title": "- JAN BATALLAN -",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
