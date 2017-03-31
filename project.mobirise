@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 112,
+    "uniqCompNum": 113,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -2710,7 +2710,12 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-33",
+          "_styles": {
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "msg-box4-34",
           "_params": {
             "imageSize": "33",
             "paddingTop": "2",
@@ -2756,12 +2761,7 @@
           },
           "title": "INTRODUCTION VIDEO",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go To YouTube</a>",
-          "_styles": {
-            "H3": {
-              "color": "#b8312f"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go To YouTube</a>"
         },
         {
           "_styles": {
