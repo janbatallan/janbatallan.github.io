@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 114,
+    "uniqCompNum": 113,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -2680,13 +2680,6 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
           "_anchor": "header1-1v",
           "_params": {
             "parallax": true,
@@ -2707,7 +2700,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "- JAN BATALLAN -",
+          "title": "JAN A. BATALLAN",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -2724,9 +2717,9 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-35",
+          "_anchor": "header3-33",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#2e2e2e",
             "showMeta": false
@@ -2742,10 +2735,10 @@
           "_anchor": "buttons1-34",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My YouTube Channel</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story...</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My YouTube Channel</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0&amp;t=1s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story...</a>"
         },
         {
           "_styles": {
@@ -2762,8 +2755,8 @@
           "_name": "header3",
           "_anchor": "header3-25",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#2e2e2e",
             "showMeta": true
           },

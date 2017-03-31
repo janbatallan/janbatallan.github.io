@@ -6,7 +6,6 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -1062,7 +1061,6 @@ h6,
 }
 
 
-
 #menu-1r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1133,15 +1131,11 @@ h6,
 #footer1-1t P {
   color: #b8312f;
 }
-#header1-1v .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#header3-35 .mbr-section-title,
-#header3-35 .mbr-section-subtitle {
+#header3-33 .mbr-section-title,
+#header3-33 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-35 H3 {
+#header3-33 H3 {
   color: #b8312f;
 }
 #header3-25 .mbr-section-title,
