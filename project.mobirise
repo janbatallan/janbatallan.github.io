@@ -2759,7 +2759,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go To YouTube</a>",
           "_styles": {
             "H3": {
-              "color": "#232323"
+              "color": "#b8312f"
             }
           }
         },
