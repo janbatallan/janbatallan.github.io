@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 114,
+    "uniqCompNum": 112,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -2685,7 +2685,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prisms-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/file-2000x1250.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2710,11 +2710,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-35",
+          "_anchor": "msg-box4-33",
           "_params": {
-            "imageSize": "33",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2735,12 +2735,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/youtube-icon-1400x985.png",
-              "link": "https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true,
-              "active": true
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2750,8 +2745,14 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
+              "linkInNewWindow": false,
+              "name": "youtube",
+              "family": "socicon",
+              "link": "https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA",
+              "size": 250,
+              "active": true,
+              "color": "#b8312f",
+              "newWindow": true
             }
           },
           "title": "INTRODUCTION VIDEO",
@@ -2759,7 +2760,10 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go To YouTube</a>",
           "_styles": {
             "H3": {
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "font-size": "46px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           }
         },

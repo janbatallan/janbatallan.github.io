@@ -1061,6 +1061,7 @@ h6,
 }
 
 
+
 #menu-1r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1131,8 +1132,10 @@ h6,
 #footer1-1t P {
   color: #b8312f;
 }
-#msg-box4-35 H3 {
+#msg-box4-33 H3 {
   color: #b8312f;
+  font-size: 46px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #header3-25 .mbr-section-title,
 #header3-25 .mbr-section-subtitle {
