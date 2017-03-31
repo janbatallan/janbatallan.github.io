@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 112,
+    "uniqCompNum": 114,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -2712,67 +2712,40 @@
           }
         },
         {
-          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-33",
+          "_name": "header3",
+          "_anchor": "header3-35",
           "_params": {
-            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "showMeta": false
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "link": "https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA",
-              "size": 250,
-              "active": true,
-              "color": "#b8312f",
-              "newWindow": true
-            }
+          "title": "YouTube Work",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-34",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#2e2e2e"
           },
-          "title": "INTRODUCTION VIDEO",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go To YouTube</a>",
-          "_styles": {
-            "H3": {
-              "color": "#b8312f",
-              "font-size": "46px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/channel/UC1Y0q1gzjWTGBYijdVSckTA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My YouTube Channel</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://www.youtube.com/watch?v=awa2AOQJpj0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story...</a>"
         },
         {
           "_styles": {
@@ -2789,8 +2762,8 @@
           "_name": "header3",
           "_anchor": "header3-25",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
