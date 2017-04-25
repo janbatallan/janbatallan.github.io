@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "3.12.1",
     "path": "file:///C:/Users/0282256/Desktop",
     "screenshot": "screenshot.png"
@@ -3393,61 +3393,31 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"http://forums.mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop gallery.html\" target=\"_blank\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator gallery.html\" target=\"_blank\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Animate</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ImagineDragonsBeliever.html\">Imagine Dragons Believer Music Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ImagineDragonsBeliever.html\">A Thousand Million Reasons (YouTube Upload Not Functional)</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dreamweaver</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/DTS/Discuss IT Topic 6.pdf\">DiscussIt 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Powerpoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://janbatallan.github.io\" target=\"_blank\">Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"certification.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"janbatallan.github.io/DTS/living online certificate.pdf\" target=\"_blank\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"janbatallan.github.io/DTS/ic3 computing fundamentals certificate.pdf\" target=\"_blank\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"janbatallan.github.io/DTS/Photoshop certification.pdf\" aria-expanded=\"false\" target=\"_blank\">Photoshop ACA Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certification.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teacherrecommendation.html\">Teacher Recommendation</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"contactinfo.html\">CONTACT ME<br></a></li>"
         },
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-3d",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#b3b3b3",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ccc",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
+          "_name": "image1",
+          "_anchor": "image1-3e",
           "media": {
             "image": {
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/image1.jpg",
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "link": "https://www.youtube.com/watch?v=b1EiVyC4Mug",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+              "src": "https://www.youtube.com/watch?v=b1EiVyC4Mug",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
             }
           },
-          "title": "Colin Hay A Thousand Million Reasons",
-          "text": "YouTube Upload was not functional, I will have the video up as soon as possible.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">YouTube Link</a>"
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
