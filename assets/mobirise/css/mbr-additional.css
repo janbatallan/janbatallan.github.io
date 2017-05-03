@@ -4,7 +4,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
@@ -492,6 +491,14 @@ h6,
 #testimonials1-e .card-footer > small {
   color: #b8312f;
 }
+#social-buttons4-2z .mbr-section-title,
+#social-buttons4-2z .btn-social {
+  color: #fff;
+}
+#social-buttons4-2z .mbr-section-title {
+  font-size: 36px;
+  color: #b8312f;
+}
 #contacts3-24 H4 {
   color: #b8312f;
 }
@@ -507,14 +514,6 @@ h6,
 }
 #contacts3-24 P {
   font-family: 'Raleway', sans-serif;
-}
-#social-buttons4-2z .mbr-section-title,
-#social-buttons4-2z .btn-social {
-  color: #fff;
-}
-#social-buttons4-2z .mbr-section-title {
-  font-size: 36px;
-  color: #b8312f;
 }
 #footer1-1t P {
   color: #b8312f;
@@ -691,6 +690,14 @@ h6,
   color: #000000;
   font-family: 'Roboto Condensed', sans-serif;
 }
+#social-buttons4-2x .mbr-section-title,
+#social-buttons4-2x .btn-social {
+  color: #fff;
+}
+#social-buttons4-2x .mbr-section-title {
+  font-size: 36px;
+  color: #b8312f;
+}
 #contacts3-24 H4 {
   color: #b8312f;
 }
@@ -706,14 +713,6 @@ h6,
 }
 #contacts3-24 P {
   font-family: 'Raleway', sans-serif;
-}
-#social-buttons4-2x .mbr-section-title,
-#social-buttons4-2x .btn-social {
-  color: #fff;
-}
-#social-buttons4-2x .mbr-section-title {
-  font-size: 36px;
-  color: #b8312f;
 }
 #footer1-1t P {
   color: #b8312f;
@@ -735,6 +734,14 @@ h6,
   color: #000000;
   font-family: 'Roboto Condensed', sans-serif;
 }
+#social-buttons4-2w .mbr-section-title,
+#social-buttons4-2w .btn-social {
+  color: #fff;
+}
+#social-buttons4-2w .mbr-section-title {
+  font-size: 36px;
+  color: #b8312f;
+}
 #contacts3-24 H4 {
   color: #b8312f;
 }
@@ -750,14 +757,6 @@ h6,
 }
 #contacts3-24 P {
   font-family: 'Raleway', sans-serif;
-}
-#social-buttons4-2w .mbr-section-title,
-#social-buttons4-2w .btn-social {
-  color: #fff;
-}
-#social-buttons4-2w .mbr-section-title {
-  font-size: 36px;
-  color: #b8312f;
 }
 #footer1-1t P {
   color: #b8312f;
@@ -898,6 +897,14 @@ h6,
 #menu-1n .close-icon::after {
   background-color: #ffffff;
 }
+#social-buttons4-2v .mbr-section-title,
+#social-buttons4-2v .btn-social {
+  color: #fff;
+}
+#social-buttons4-2v .mbr-section-title {
+  font-size: 36px;
+  color: #b8312f;
+}
 #contacts3-24 H4 {
   color: #b8312f;
 }
@@ -914,18 +921,9 @@ h6,
 #contacts3-24 P {
   font-family: 'Raleway', sans-serif;
 }
-#social-buttons4-2v .mbr-section-title,
-#social-buttons4-2v .btn-social {
-  color: #fff;
-}
-#social-buttons4-2v .mbr-section-title {
-  font-size: 36px;
-  color: #b8312f;
-}
 #footer1-1t P {
   color: #b8312f;
 }
-
 
 
 
@@ -1010,18 +1008,6 @@ h6,
   font-family: 'PT Sans Narrow', sans-serif;
   font-size: 19px;
 }
-#header3-j .mbr-section-title,
-#header3-j .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-j H3 {
-  font-size: 36px;
-  color: #b8312f;
-}
-#content6-k P {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 17px;
-}
 #content1-i DIV {
   text-align: center;
   font-size: 15px;
@@ -1031,6 +1017,14 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 15px;
   color: #000000;
+}
+#social-buttons4-2u .mbr-section-title,
+#social-buttons4-2u .btn-social {
+  color: #fff;
+}
+#social-buttons4-2u .mbr-section-title {
+  font-size: 36px;
+  color: #b8312f;
 }
 #contacts3-24 H4 {
   color: #b8312f;
@@ -1047,14 +1041,6 @@ h6,
 }
 #contacts3-24 P {
   font-family: 'Raleway', sans-serif;
-}
-#social-buttons4-2u .mbr-section-title,
-#social-buttons4-2u .btn-social {
-  color: #fff;
-}
-#social-buttons4-2u .mbr-section-title {
-  font-size: 36px;
-  color: #b8312f;
 }
 #footer1-l P {
   color: #b8312f;
@@ -1145,6 +1131,14 @@ h6,
 #header3-25 H3 {
   color: #b8312f;
 }
+#social-buttons4-2t .mbr-section-title,
+#social-buttons4-2t .btn-social {
+  color: #fff;
+}
+#social-buttons4-2t .mbr-section-title {
+  font-size: 36px;
+  color: #b8312f;
+}
 #contacts3-24 H4 {
   color: #b8312f;
 }
@@ -1160,14 +1154,6 @@ h6,
 }
 #contacts3-24 P {
   font-family: 'Raleway', sans-serif;
-}
-#social-buttons4-2t .mbr-section-title,
-#social-buttons4-2t .btn-social {
-  color: #fff;
-}
-#social-buttons4-2t .mbr-section-title {
-  font-size: 36px;
-  color: #b8312f;
 }
 
 
