@@ -1333,94 +1333,6 @@ h6,
 }
 
 
-#menu-3i .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-3i .navbar-caption {
-  color: #ffffff;
-}
-#menu-3i .navbar-toggler {
-  color: #ffffff;
-}
-#menu-3i .link,
-#menu-3i .dropdown-item {
-  color: #ffffff;
-}
-#menu-3i .link {
-  font-size: 0.8rem;
-}
-#menu-3i .dropdown-item,
-#menu-3i .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#menu-3i .link:hover,
-#menu-3i .dropdown-item:hover,
-#menu-3i .link:focus,
-#menu-3i .dropdown-item:focus {
-  color: #c1c1c1;
-}
-#menu-3i .link[aria-expanded="true"],
-#menu-3i .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-3i .nav-dropdown-sm .link:focus,
-#menu-3i .nav-dropdown-sm .link:hover,
-#menu-3i .nav-dropdown-sm .dropdown-item:focus,
-#menu-3i .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-3i .navbar,
-#menu-3i .nav-dropdown-sm,
-#menu-3i .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-3i .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-3i .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-3i .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-3i .bg-color.transparent.opened .link:hover,
-#menu-3i .bg-color.transparent.opened .link:focus {
-  color: #c1c1c1;
-}
-#menu-3i .link[aria-expanded="true"],
-#menu-3i .dropdown-item[aria-expanded="true"] {
-  color: #c1c1c1!important;
-}
-#menu-3i.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-3i .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-3i .close-icon::before,
-#menu-3i .close-icon::after {
-  background-color: #ffffff;
-}
-#contacts3-3j H4 {
-  color: #b8312f;
-}
-#contacts3-3j LI {
-  color: #ffffff;
-}
-#contacts3-3j STRONG {
-  color: #b8312f;
-  font-size: 16px;
-}
-#contacts3-3j .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#contacts3-3j P {
-  font-family: 'Raleway', sans-serif;
-}
-#footer1-3k P {
-  color: #b8312f;
-}
-
-
 #menu-3p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1593,5 +1505,93 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #footer1-3v P {
+  color: #b8312f;
+}
+
+
+#menu-3i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3i .navbar-caption {
+  color: #ffffff;
+}
+#menu-3i .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3i .link,
+#menu-3i .dropdown-item {
+  color: #ffffff;
+}
+#menu-3i .link {
+  font-size: 0.8rem;
+}
+#menu-3i .dropdown-item,
+#menu-3i .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-3i .link:hover,
+#menu-3i .dropdown-item:hover,
+#menu-3i .link:focus,
+#menu-3i .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#menu-3i .link[aria-expanded="true"],
+#menu-3i .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-3i .nav-dropdown-sm .link:focus,
+#menu-3i .nav-dropdown-sm .link:hover,
+#menu-3i .nav-dropdown-sm .dropdown-item:focus,
+#menu-3i .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-3i .navbar,
+#menu-3i .nav-dropdown-sm,
+#menu-3i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3i .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-3i .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3i .bg-color.transparent.opened .link:hover,
+#menu-3i .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#menu-3i .link[aria-expanded="true"],
+#menu-3i .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#menu-3i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3i .close-icon::before,
+#menu-3i .close-icon::after {
+  background-color: #ffffff;
+}
+#contacts3-3j H4 {
+  color: #b8312f;
+}
+#contacts3-3j LI {
+  color: #ffffff;
+}
+#contacts3-3j STRONG {
+  color: #b8312f;
+  font-size: 16px;
+}
+#contacts3-3j .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts3-3j P {
+  font-family: 'Raleway', sans-serif;
+}
+#footer1-3k P {
   color: #b8312f;
 }
